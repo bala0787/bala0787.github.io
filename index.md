@@ -1,2 +1,2 @@
 # AR Restaurant
-This is a website for an AR Restaurant! You can view it [here](Website.html)!
+To continue Click [here](Website.html)!
